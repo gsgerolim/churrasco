@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: churrasco
+    env: docker
+    plan: free
+    autoDeploy: true
